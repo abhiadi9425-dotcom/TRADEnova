@@ -1,4 +1,4 @@
-[App Screenshot](output.png)
+![App Screenshot](output.png)
 #TRADEnova 📈
 
 TRADEnova is an AI-powered stock price prediction system that uses LSTM (Long Short-Term Memory) networks to analyze historical data and forecast future stock price movements.
